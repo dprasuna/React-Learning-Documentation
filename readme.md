@@ -69,4 +69,4 @@ This repository is licensed under the [MIT License](LICENSE).
 
 ---
 
-Follow me on [Twitter](https://twitter.com/Prasuna Dash) for more React tips and updates!
+Follow me on [Twitter](https://twitter.com/PrasunaDash) for more React tips and updates!
